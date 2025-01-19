@@ -11,25 +11,42 @@ In terms of profit, campaigns 1 and 5 were the most successful. Campaign 2 did t
 ### Successful Campaigns
 * Campaigns 1 and 5 were the highest in both profit and acceptance count. They were primarily accepted by our highly valued customers.
   * Campaign 2 had little acceptance from our highly valued customers or any customers.
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/d2df7d35-0b9a-4017-8733-b22c23778dd5" alt="Profit and Acceptance" />
+</div>
 
 ### Campaigns and Deals
 * Although campaign 3 had a great acceptance count; most of its receivers were mid-valued customers, who also happen to be the highest population for most deals in their purchases.
 This behavior explains the profit dip in both campaigns 3 and 4 despite both campaigns having a fairly high acceptance count.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ec00faa8-e57f-4f61-be4a-06bc18aed591" />
+</div>
+
 
 ### Purchase Methods
 * Most items were bought in stores and on the web.
   * For web purchases, it's seen that our higher-valued customers have fewer web visits per month than their counterparts.
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/7438f7fb-7bb6-4669-8b21-2070382281a2" alt="Purchase Methods and Web Visits" />
+</div>
 
 ### Core Customer Groups
 * Our highly valued customers are on average 53 years in age with an income mean of 70k. Most are in a relationship and have little to no children
 As opposed to our lower valued customers with a lower income and more children.
-
-
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/41952bd3-06cf-40cd-a863-8ebc370b4503" />
+</div>
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/4c9c36a8-6317-43c0-a973-8ee92906afb4" />
+</div>
 
 ## Recommendations
-* **Reconsider the number of deals or the deal values distributed**; Although deals increase the acceptance rate, it decreases our general profit. To ensure success, we should appeal to our higher-valued customer groups. Which are the middle-aged, higher-income, and childless population.
-* **Broaden our connections with additional stores**; Expanding our reach can only improve our business since stores are the primary purchase method for most of our customers.
-* **Improve web traffic and interactions**; the less time spent on our website, the more likely they are to spend. This can be reviewing the website’s layout, load speed, user-friendliness, and the website’s conversion funnel.
+* **Reconsider the number of deals or the deal values distributed**;
+  * Although deals increase the acceptance rate, it decreases our general profit. To ensure success, we should appeal to our higher-valued customer groups. Which are the middle-aged, higher-income, and childless populations.
+* **Broaden our connections with additional stores**;
+  * Expanding our reach can only improve our business since stores are the primary purchase method for most of our customers.
+* **Improve web traffic and interactions**;
+  * The less time spent on our website, the more likely they are to spend. This can be reviewing the website’s layout, load speed, user-friendliness, and the website’s conversion funnel.
 
 ## Assumptions and Caveats
 * **Little to no complaints**; within the last two years, there were only a total of 20 complaints. This can be a good sign but it's suspicious.
