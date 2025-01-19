@@ -1,13 +1,24 @@
+# iFood's Campaign Analysis
 ![IFood_logo svg](https://github.com/user-attachments/assets/741689c5-f9dc-4a08-841d-1476b086a916)
+## Table of Contents
+- [Project Background](#project-background)
+- [Executive Summary](#executive-summary)
+- [Insights Deep-Dive](#insights-deep-dive)
+  - [Successful Campaigns](#successful-campaigns)
+  - [Campaigns and Deals](#campaigns-and-deals)
+  - [Purchase methods](#purchase-methods)
+  - [Core Customer Groups](#core-customer-groups)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
+
+----
 # Project Background
 iFood specializes in online food ordering and delivery, they were previously based in Colombia and are now operating in Brazil. I will analyze the sample dataset used for their Data Analyst hiring step, found on Kaggle and publicly available on GitHub.
 
 ## Executive Summary
 In terms of profit, campaigns 1 and 5 were the most successful. Campaign 2 did the worst in both acceptance count and profit. Store-bought items were the most popular throughout all campaigns, followed by web purchases. Our highly valued customers are typically older, higher-income, have no young children, and are either married or together.
 
-
-
-
+## Insights Deep-Dive
 ### Successful Campaigns
 * Campaigns 1 and 5 were the highest in both profit and acceptance count. They were primarily accepted by our highly valued customers.
   * Campaign 2 had little acceptance from our highly valued customers or any customers.
